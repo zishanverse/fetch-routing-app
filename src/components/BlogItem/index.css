@@ -50,4 +50,7 @@
   .author {
     font-size: 2vw;
   }
+  .itemImg {
+    height: 20vh;
+  }
 }
