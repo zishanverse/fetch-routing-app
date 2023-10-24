@@ -1,0 +1,40 @@
+.detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 40px;
+}
+.avatarDetailImg {
+  width: 10vw;
+  border-radius: 50px;
+}
+.imageDetailCard {
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+  color: #000;
+  font-size: 4vw;
+}
+.authorDetailCard {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.authorName {
+  color: #000;
+  font-family: 'Roboto';
+  font-size: 2vw;
+  font-weight: 500;
+}
+.details {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+  font-size: 2vw;
+  font-weight: 400;
+}
